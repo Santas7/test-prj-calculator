@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@ant-design/icons": "5.0.1",
+=======
+>>>>>>> 91e7052 (install ant design)
     "@types/node": "^20.1.3",
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
@@ -26,8 +29,12 @@
     "vite": "4.3.5"
   },
   "dependencies": {
+<<<<<<< HEAD
     "ant": "^0.0.0",
     "antd": "^5.4.7",
     "design": "^0.1.0"
+=======
+    "antd": "^5.4.7"
+>>>>>>> 91e7052 (install ant design)
   }
 }
